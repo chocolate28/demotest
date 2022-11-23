@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello 04.36
+=======
+ccvjv
+>>>>>>> parent of 1ace4b4 (text1 04.34)
